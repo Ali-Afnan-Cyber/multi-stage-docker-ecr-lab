@@ -1,0 +1,13 @@
+Why Multi-Stage Docker Builds Are Better
+
+Smaller Image Size
+ Only the final app files are included.
+ No extra build tools or temp files.
+
+Better Security
+ Less stuff means fewer security risks.
+ No compilers or package managers in the final image.
+
+Faster CI/CD
+ Smaller images upload and download faster.
+ Speeds up deployments and builds.

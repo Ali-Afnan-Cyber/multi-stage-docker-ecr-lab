@@ -1,0 +1,8 @@
+The push refers to repository [242887612647.dkr.ecr.eu-north-1.amazonaws.com/multi-stage-docker-ecr-lab]
+785c7c62042c: Pushed 
+f6516ee397e8: Pushed 
+82140d9a70a7: Pushed 
+f3b40b0cdb1c: Pushed 
+0b1f26057bd0: Pushed 
+08000c18d16d: Layer already exists 
+latest: digest: sha256:411a7eadbe75e57c9015e05536a5e8f30c08812b31eacba4450bae9ab60c3ed5 size: 1574
